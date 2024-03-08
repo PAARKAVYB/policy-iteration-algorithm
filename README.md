@@ -4,7 +4,7 @@
 To develop a Python program to find the optimal policy for the given MDP using the policy iteration algorithm.
 
 ## PROBLEM STATEMENT:
-The problem statement is a Five stage slippery walk where there are five stages excluding goal and hole.The problem is stochastic thus doesnt allow transition probability of 1 for each action it takes.It changes according to the state and policy.
+The problem statement is a Five stage slippery walk where there are five stages excluding goal and hole. The problem is stochastic thus does not allow transition probability of 1 for each action it takes. It changes according to the state and policy.
 
 ### STATE:
 The states include two terminal states: 0-Hole[H] and 6-Goal[G].
