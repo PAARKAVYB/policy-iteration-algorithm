@@ -11,8 +11,8 @@ The states include two terminal states: 0-Hole[H] and 6-Goal[G].
 
 It has five non terminal states including starting state.
 
-### TRANSITION PROBABILITY;
-The transition probabilities for the problem statement is:
+### TRANSITION PROBABILITY:
+The transition probabilities for the problem statement are:
 
 50% - The agent moves in intended direction.
 
